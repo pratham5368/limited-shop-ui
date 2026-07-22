@@ -1,7 +1,4 @@
---Discord connected with GitHub
--- have admin in the game group as proof 
---discord user = toji7y2
---roblox user = bunny7y16
+
 
 local LimitedShopHandler = {}
 
