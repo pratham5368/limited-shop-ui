@@ -1,8 +1,8 @@
-Hello this system is from a game i am handling currently i have admin role in it's roblox group too.
-i handle the whole game alone so there are some other systems too like
-new battle mode with bot support
-reworked the rebirth system 
-admin panel setup etc 
-this file is for a limited items in game which hovers in map at a platform 
-WE moved the platforms in corners near leadersboard in yesterdays update just to let yk 
-thank you lmk if you need anything else 
+Besides this system, I've also worked on several major features, including:
+
+A new battle mode with bot support.
+A complete rework of the rebirth system.
+Admin panel setup and configuration.
+Various gameplay improvements, optimizations, and bug fixes.
+
+This specific file is for the limited items system, where limited items spawn and hover above platforms around the map. In yesterday's update, we relocated those platforms to the corners near the leaderboard to improve the overall layout and player experience.
